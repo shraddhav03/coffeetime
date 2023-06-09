@@ -12,9 +12,9 @@ export const Login = () => {
                 <input type="checkbox" className="inputchbox"></input>
                 <label >Remember Me</label>
                 </div>
-                <a href="#">Forgot Your Password?</a>
+                {/* <a href="#">Forgot Your Password?</a> */}
                 <button>Login</button>
-                <a href="#">Create New Account</a>
+                {/* <a href="#">Create New Account</a> */}
             </form>
         </div>
     </div>
